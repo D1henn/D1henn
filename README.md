@@ -1,4 +1,11 @@
-<h1 align="left">Data Automation | Front-End Developer</h1>
+<h2 align="left">Hi there! I'm Diego 👋</h2>
+
+<p align="left">
+  I'm a <b>Data & Automation</b> and <b>Front-end Developer</b>.<br>
+  
+</p>
+
+<br>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
